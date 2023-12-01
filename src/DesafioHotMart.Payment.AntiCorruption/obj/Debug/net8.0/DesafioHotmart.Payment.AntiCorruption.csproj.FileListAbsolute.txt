@@ -1,0 +1,16 @@
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\bin\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.deps.json
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\bin\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\bin\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.pdb
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\bin\Debug\net8.0\DesafioHotmart.Payment.Business.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\bin\Debug\net8.0\DesafioHotmart.Payment.Business.pdb
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.csproj.AssemblyReference.cache
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.AssemblyInfoInputs.cache
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.AssemblyInfo.cs
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.csproj.CoreCompileInputs.cache
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.sourcelink.json
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.csproj.CopyComplete
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\refint\DesafioHotmart.Payment.AntiCorruption.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.pdb
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\ref\DesafioHotmart.Payment.AntiCorruption.dll

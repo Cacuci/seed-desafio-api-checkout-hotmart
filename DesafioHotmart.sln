@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHorMart.API", "src\DesafioHorMart.API\DesafioHorMart.API.csproj", "{A5E2BB24-F436-4B0F-BCCC-D29B63D3E4BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHotmart.API", "src\DesafioHorMart.API\DesafioHotmart.API.csproj", "{A5E2BB24-F436-4B0F-BCCC-D29B63D3E4BE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{E9493D2B-DE82-45A4-9F47-3A7EE65EF3CA}"
 EndProject
@@ -11,11 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{7C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Payment", "Payment", "{63369981-F822-44D0-831D-F4F463CA8E34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioHotmart.Payment.AntiCorruption", "src\DesafioHotMart.Payment.AntiCorruption\DesafioHotmart.Payment.AntiCorruption.csproj", "{16FCF03B-6AF8-4AE4-92CB-60258DE46CE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHotmart.Payment.AntiCorruption", "src\DesafioHotMart.Payment.AntiCorruption\DesafioHotmart.Payment.AntiCorruption.csproj", "{16FCF03B-6AF8-4AE4-92CB-60258DE46CE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioHotmart.Payment.Business", "src\DesafioHotmart.Payment.Business\DesafioHotmart.Payment.Business.csproj", "{FBB13E56-85FD-453A-8BC4-302921AC7FE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHotmart.Payment.Business", "src\DesafioHotmart.Payment.Business\DesafioHotmart.Payment.Business.csproj", "{FBB13E56-85FD-453A-8BC4-302921AC7FE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioHormart.Payment.Data", "src\DesafioHormart.Payment.Data\DesafioHormart.Payment.Data.csproj", "{C8959E81-941A-414A-B99E-345F0CA33698}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHormart.Payment.Data", "src\DesafioHormart.Payment.Data\DesafioHormart.Payment.Data.csproj", "{C8959E81-941A-414A-B99E-345F0CA33698}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{33D702B7-C881-492A-A000-6046FDC2295D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHortmart.Core", "src\DesafioHortmart.Core\DesafioHortmart.Core.csproj", "{AD392C78-26A2-451C-BC21-C8AE507EA36B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,10 @@ Global
 		{C8959E81-941A-414A-B99E-345F0CA33698}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8959E81-941A-414A-B99E-345F0CA33698}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8959E81-941A-414A-B99E-345F0CA33698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD392C78-26A2-451C-BC21-C8AE507EA36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD392C78-26A2-451C-BC21-C8AE507EA36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD392C78-26A2-451C-BC21-C8AE507EA36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD392C78-26A2-451C-BC21-C8AE507EA36B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,5 +57,10 @@ Global
 		{16FCF03B-6AF8-4AE4-92CB-60258DE46CE0} = {63369981-F822-44D0-831D-F4F463CA8E34}
 		{FBB13E56-85FD-453A-8BC4-302921AC7FE7} = {63369981-F822-44D0-831D-F4F463CA8E34}
 		{C8959E81-941A-414A-B99E-345F0CA33698} = {63369981-F822-44D0-831D-F4F463CA8E34}
+		{33D702B7-C881-492A-A000-6046FDC2295D} = {7CC8B67B-FE22-4B2B-A463-3A6EFAF4AEF1}
+		{AD392C78-26A2-451C-BC21-C8AE507EA36B} = {33D702B7-C881-492A-A000-6046FDC2295D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAE9C659-DD38-4685-85D7-41990075C192}
 	EndGlobalSection
 EndGlobal

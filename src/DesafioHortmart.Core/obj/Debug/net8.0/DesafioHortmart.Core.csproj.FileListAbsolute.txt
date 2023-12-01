@@ -1,0 +1,12 @@
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\bin\Debug\net8.0\DesafioHortmart.Core.deps.json
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\bin\Debug\net8.0\DesafioHortmart.Core.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\bin\Debug\net8.0\DesafioHortmart.Core.pdb
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\obj\Debug\net8.0\DesafioHortmart.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\obj\Debug\net8.0\DesafioHortmart.Core.AssemblyInfoInputs.cache
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\obj\Debug\net8.0\DesafioHortmart.Core.AssemblyInfo.cs
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\obj\Debug\net8.0\DesafioHortmart.Core.csproj.CoreCompileInputs.cache
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\obj\Debug\net8.0\DesafioHortmart.Core.sourcelink.json
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\obj\Debug\net8.0\DesafioHortmart.Core.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\obj\Debug\net8.0\refint\DesafioHortmart.Core.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\obj\Debug\net8.0\DesafioHortmart.Core.pdb
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHortmart.Core\obj\Debug\net8.0\ref\DesafioHortmart.Core.dll

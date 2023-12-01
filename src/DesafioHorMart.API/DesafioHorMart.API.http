@@ -1,6 +1,6 @@
-@DesafioHorMart.API_HostAddress = http://localhost:5268
+@DesafioHotmart.API_HostAddress = http://localhost:5268
 
-GET {{DesafioHorMart.API_HostAddress}}/weatherforecast/
+GET {{DesafioHotmart.API_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

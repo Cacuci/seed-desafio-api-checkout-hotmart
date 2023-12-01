@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioHotmart.Payment.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d48a5bdad22671422c89b38c9b6ff735ca31709a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioHotmart.Payment.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioHotmart.Payment.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

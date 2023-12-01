@@ -1,0 +1,12 @@
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\bin\Debug\net8.0\DesafioHotmart.Payment.Business.deps.json
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\bin\Debug\net8.0\DesafioHotmart.Payment.Business.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\bin\Debug\net8.0\DesafioHotmart.Payment.Business.pdb
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\DesafioHotmart.Payment.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\DesafioHotmart.Payment.Business.AssemblyInfoInputs.cache
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\DesafioHotmart.Payment.Business.AssemblyInfo.cs
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\DesafioHotmart.Payment.Business.csproj.CoreCompileInputs.cache
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\DesafioHotmart.Payment.Business.sourcelink.json
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\DesafioHotmart.Payment.Business.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\refint\DesafioHotmart.Payment.Business.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\DesafioHotmart.Payment.Business.pdb
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\ref\DesafioHotmart.Payment.Business.dll
