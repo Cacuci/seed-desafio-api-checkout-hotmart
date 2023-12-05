@@ -145,6 +145,9 @@
         }
       },
       "DesafioHotmart.Payment.Business/1.0.0": {
+        "dependencies": {
+          "DesafioHortmart.Core": "1.0.0"
+        },
         "runtime": {
           "DesafioHotmart.Payment.Business.dll": {}
         }

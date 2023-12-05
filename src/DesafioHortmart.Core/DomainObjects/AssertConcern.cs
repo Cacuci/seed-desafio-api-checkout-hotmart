@@ -2,7 +2,7 @@
 
 namespace DesafioHortmart.Core.DomainObjects
 {
-    internal class AssertConcern
+    public class AssertConcern
     {
         public static void Equals(object object1, object object2, string message)
         {
@@ -68,7 +68,7 @@ namespace DesafioHortmart.Core.DomainObjects
             }
         }
 
-        public static void Null(string value, string message)
+        public static void Null(object value, string message)
         {
             if (value is null)
             {

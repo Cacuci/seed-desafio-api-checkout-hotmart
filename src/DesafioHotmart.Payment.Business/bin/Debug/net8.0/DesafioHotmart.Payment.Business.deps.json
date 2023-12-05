@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "DesafioHotmart.Payment.Business/1.0.0": {
+        "dependencies": {
+          "DesafioHortmart.Core": "1.0.0"
+        },
         "runtime": {
           "DesafioHotmart.Payment.Business.dll": {}
+        }
+      },
+      "DesafioHortmart.Core/1.0.0": {
+        "runtime": {
+          "DesafioHortmart.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DesafioHotmart.Payment.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioHortmart.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -165,7 +165,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Git\\seed-desafio-api-checkout-hotmart\\src\\DesafioHortmart.Core\\DesafioHortmart.Core.csproj": {
+                "projectPath": "C:\\Git\\seed-desafio-api-checkout-hotmart\\src\\DesafioHortmart.Core\\DesafioHortmart.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

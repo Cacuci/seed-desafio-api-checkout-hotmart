@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DesafioHortmart.Core\DesafioHortmart.Core.csproj" />
+  </ItemGroup>
+
 </Project>

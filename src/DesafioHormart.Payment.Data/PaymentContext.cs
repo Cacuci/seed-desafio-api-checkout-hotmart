@@ -5,9 +5,11 @@ namespace DesafioHormart.Payment.Data
 {
     public class PaymentContext(DbContextOptions<PaymentContext> options) : DbContext(options), IUnityOfWork
     {
+        public DbSet<DesafioHotmart.Payment.Business.Payment> Payments { get; set; }
+
         public async Task<bool> CommitAsync(CancellationToken cancellationToken)
         {
-            foreach (var entry in ChangeTracker.Entries().Where(entry => entry.Entity.GetType().GetProperty("DataCadastro") != null))
+            foreach (var entry in ChangeTracker.Entries().Where(entry => entry.Entity.GetType().GetProperty("DataRegister") != null))
             {
                 if (entry.State == EntityState.Added)
                 {

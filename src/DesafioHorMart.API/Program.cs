@@ -1,4 +1,9 @@
 using DesafioHormart.Payment.Data;
+using DesafioHortmart.Core.DomainObjects.DTOs;
+using DesafioHotmart.Payment.AntiCorruption;
+using DesafioHotmart.Payment.AntiCurruption;
+using DesafioHotmart.Payment.Business;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,6 +24,11 @@ builder.Services.AddSwaggerGen(setup =>
     }
 });
 
+builder.Services.AddScoped<IPaymentService, >
+
+builder.Services.AddScoped<IPaymentFacade, PaymentFacade>();
+builder.Services.AddScoped<IPaymentGateway, PaymentGateway>();
+
 builder.Services.AddDbContext<PaymentContext>(options => options.UseInMemoryDatabase("Payment"));
 
 var app = builder.Build();
@@ -32,12 +42,53 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-
-app.MapPost("/payment", () =>
+app.MapPost("/payment/credit-card", ([FromBody] PaymentCreditCardRequest request, IPaymentService service) =>
 {
     return string.Empty;
 })
-.WithName("PostPayment")
+.WithName("PostPaymentCreditCard")
+.WithOpenApi();
+
+app.MapPost("/payment/boleto-cpf", ([FromBody] PaymentBoletoCPFRequest request, IPaymentService service) =>
+{
+    return string.Empty;
+})
+.WithName("PostPaymentBoletoCPF")
+.WithOpenApi();
+
+app.MapPost("/payment/boleto-cnpj", ([FromBody] PaymentBoletoCPFRequest request, IPaymentService service) =>
+{
+    return string.Empty;
+})
+.WithName("PostPaymentBoletoCNPJ")
+.WithOpenApi();
+
+app.MapPost("/payment/pix", () =>
+{
+    return string.Empty;
+})
+.WithName("PostPaymentPix")
+.WithOpenApi();
+
+app.MapPost("/payment/pay-pal", () =>
+{
+    return string.Empty;
+})
+.WithName("PostPaymentPayPal")
+.WithOpenApi();
+
+app.MapPost("/payment/credit-card-caixa", ([FromBody] PaymentCreditCardRequest request, IPaymentService service) =>
+{
+    return string.Empty;
+})
+.WithName("PostPaymentCreditCardCaixa")
+.WithOpenApi();
+
+app.MapPost("/payment/two-credit-card", ([FromBody] IEnumerable<PaymentCreditCardRequest> request, IPaymentService service) =>
+{
+    return string.Empty;
+})
+.WithName("PostPaymentTwoCreditCard")
 .WithOpenApi();
 
 app.Run();

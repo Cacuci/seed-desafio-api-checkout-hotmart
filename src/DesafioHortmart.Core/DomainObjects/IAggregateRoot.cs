@@ -1,4 +1,4 @@
 ﻿namespace DesafioHortmart.Core.DomainObjects
 {
-    internal interface IAggregateRoot { }
+    public interface IAggregateRoot { }
 }

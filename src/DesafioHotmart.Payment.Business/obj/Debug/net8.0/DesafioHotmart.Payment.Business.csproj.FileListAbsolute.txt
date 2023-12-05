@@ -10,3 +10,7 @@ C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj
 C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\refint\DesafioHotmart.Payment.Business.dll
 C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\DesafioHotmart.Payment.Business.pdb
 C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\ref\DesafioHotmart.Payment.Business.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\bin\Debug\net8.0\DesafioHortmart.Core.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\bin\Debug\net8.0\DesafioHortmart.Core.pdb
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\DesafioHotmart.Payment.Business.csproj.AssemblyReference.cache
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotmart.Payment.Business\obj\Debug\net8.0\DesafioHotmart.Payment.Business.csproj.CopyComplete

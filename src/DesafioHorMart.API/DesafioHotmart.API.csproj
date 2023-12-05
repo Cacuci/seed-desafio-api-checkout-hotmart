@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DesafioHormart.Payment.Data\DesafioHormart.Payment.Data.csproj" />
+    <ProjectReference Include="..\DesafioHotMart.Payment.AntiCorruption\DesafioHotmart.Payment.AntiCorruption.csproj" />
     <ProjectReference Include="..\DesafioHotmart.Payment.Business\DesafioHotmart.Payment.Business.csproj" />
   </ItemGroup>
 
