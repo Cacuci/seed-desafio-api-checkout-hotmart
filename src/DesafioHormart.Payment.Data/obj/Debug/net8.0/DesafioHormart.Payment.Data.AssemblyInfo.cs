@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioHormart.Payment.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a642543004b4bf30a282a822eaae3aa7cc0728f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioHormart.Payment.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioHormart.Payment.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

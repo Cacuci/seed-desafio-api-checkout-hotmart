@@ -9,6 +9,7 @@
       "DesafioHotmart.API/1.0.0": {
         "dependencies": {
           "DesafioHormart.Payment.Data": "1.0.0",
+          "DesafioHotmart.Payment.AntiCorruption": "1.0.0",
           "DesafioHotmart.Payment.Business": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.0",
           "Microsoft.EntityFrameworkCore.InMemory": "8.0.0",
@@ -162,6 +163,14 @@
       "DesafioHortmart.Core/1.0.0": {
         "runtime": {
           "DesafioHortmart.Core.dll": {}
+        }
+      },
+      "DesafioHotmart.Payment.AntiCorruption/1.0.0": {
+        "dependencies": {
+          "DesafioHotmart.Payment.Business": "1.0.0"
+        },
+        "runtime": {
+          "DesafioHotmart.Payment.AntiCorruption.dll": {}
         }
       },
       "DesafioHotmart.Payment.Business/1.0.0": {
@@ -319,6 +328,11 @@
       "sha512": ""
     },
     "DesafioHortmart.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioHotmart.Payment.AntiCorruption/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

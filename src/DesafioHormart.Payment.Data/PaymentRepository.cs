@@ -2,7 +2,7 @@
 
 namespace DesafioHormart.Payment.Data
 {
-    internal sealed class PaymentRepository(PaymentContext paymentContext) : IPaymentRepository
+    public sealed class PaymentRepository(PaymentContext paymentContext) : IPaymentRepository
     {
         private readonly PaymentContext _paymentContext = paymentContext;
 

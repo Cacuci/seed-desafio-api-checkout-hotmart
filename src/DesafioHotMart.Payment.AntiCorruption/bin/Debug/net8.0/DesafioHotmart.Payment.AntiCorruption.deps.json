@@ -14,7 +14,15 @@
           "DesafioHotmart.Payment.AntiCorruption.dll": {}
         }
       },
+      "DesafioHortmart.Core/1.0.0": {
+        "runtime": {
+          "DesafioHortmart.Core.dll": {}
+        }
+      },
       "DesafioHotmart.Payment.Business/1.0.0": {
+        "dependencies": {
+          "DesafioHortmart.Core": "1.0.0"
+        },
         "runtime": {
           "DesafioHotmart.Payment.Business.dll": {}
         }
@@ -23,6 +31,11 @@
   },
   "libraries": {
     "DesafioHotmart.Payment.AntiCorruption/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioHortmart.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

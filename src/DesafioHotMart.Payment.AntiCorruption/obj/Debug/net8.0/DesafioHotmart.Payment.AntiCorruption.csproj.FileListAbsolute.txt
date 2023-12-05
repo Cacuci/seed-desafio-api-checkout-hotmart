@@ -14,3 +14,5 @@ C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorrupti
 C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\refint\DesafioHotmart.Payment.AntiCorruption.dll
 C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\DesafioHotmart.Payment.AntiCorruption.pdb
 C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\obj\Debug\net8.0\ref\DesafioHotmart.Payment.AntiCorruption.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\bin\Debug\net8.0\DesafioHortmart.Core.dll
+C:\Git\seed-desafio-api-checkout-hotmart\src\DesafioHotMart.Payment.AntiCorruption\bin\Debug\net8.0\DesafioHortmart.Core.pdb
